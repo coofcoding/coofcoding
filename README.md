@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a junior front-end developer with almost **3 years of experience** in the web development, in process to be a full stack developer, also i love the web design and i really like make amazing things with CSS, helping to improve the UI & UX.
+I'm a junior front-end developer with almost **3 years of experience** in the web development, in process to be a full stack developer, also i love the web design and i really like do amazing things with CSS, helping to improve the UI & UX.
 
 
 ## 🔗 Personal GitHub / Links
