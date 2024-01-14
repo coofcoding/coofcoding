@@ -21,9 +21,9 @@ I'm a junior front-end developer with almost **3 years of experience** in the we
 
 🤔 I'm looking for help with the front-end design on whatever web project.
 
-💬 Ask me about some tricks or tips for CSS, i'm can teach you even if it's a little :p
+💬 Ask me about some tricks or tips for CSS, i can teach you even if it's a little :p
 
-📫 If you want contact me, you can try send me and email to: `coofcoding@gmail.com` or twitter.
+📫 If you want contact me, you can try send me an email to: `coofcoding@gmail.com` or twitter.
 
 ⚡️ Fun fact: i like the anime xd
 
