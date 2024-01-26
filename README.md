@@ -28,5 +28,6 @@ I'm a junior front-end developer with almost **3 years of experience** in the we
 ⚡️ Fun fact: i like the anime xd
 
 
-## 🛠 Skills
-Javascript, HTML, CSS, Figma, 3D Modeling, React _(beta)_
+## 🛠 Some technologies i use
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
+<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
