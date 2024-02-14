@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a junior front-end developer with almost **3 years of experience** in the web development, in process to be a full stack developer, also i love the web design and i really like do amazing things with CSS, helping to improve the UI & UX.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coofcoding)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coofcoding&theme=rose)
 
 ## 🔗 Personal GitHub / Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k3vinlz)
