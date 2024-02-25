@@ -8,6 +8,7 @@ I'm a junior front-end developer with almost **3 years of experience** in the we
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coofcoding&theme=rose)
 
 ## 🔗 Personal GitHub / Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://coofcoding.netlify.app)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k3vinlz)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinlopezd/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coofcoding/)
